@@ -54,7 +54,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📩 Contact
 
-For queries or collaboration, feel free to connect on [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/jitender-shah-88913a243/) or reach out via email.
+For queries or collaboration, feel free to connect on [LinkedIn](https://linkedin.com/in/jitender-shah-88913a243) 
 
 ---
 
